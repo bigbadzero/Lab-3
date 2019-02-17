@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Lab#3</string>
     <string name="action_settings">Settings</string>
+    <string name="try_to_guess_the_word_one_letter_at_a_time">Try to guess the word one letter at a time.</string>
+    <string name="name">Name</string>
+    <string name="no_hints_for_you">no hints for you</string>
+    <string name="guess">Guess</string>
+    <string name="guessText">guessText</string>
 </resources>
